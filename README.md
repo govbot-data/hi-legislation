@@ -1,4 +1,4 @@
-# 🏛️ hi legislation file tree
+# 🏛️ Hawaii legislation file tree
 
 Download a copy of your states legislation.
 
