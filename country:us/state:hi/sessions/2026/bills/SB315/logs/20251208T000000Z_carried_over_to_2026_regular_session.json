@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Carried over to 2026 Regular Session.",
+    "date": "2025-12-08",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "carried-over"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB315"
+}
