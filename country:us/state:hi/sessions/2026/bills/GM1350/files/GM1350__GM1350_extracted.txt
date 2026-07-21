@@ -1,0 +1,317 @@
+Title: 
+Official Title: 
+Source: versions - GM1350
+Media Type: application/pdf
+
+================================================================================
+
+gov . msg . no . 1350
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+July 14, 2026
+The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+President of the Senate, Speaker, and Members of the
+and Members of the Senate House of Representatives
+Thirty-Third State Legislature Thirty-Third State Legislature
+State Capitol, Room 409 State Capitol, Room 431
+Honolulu, Hawaii 96813 Honolulu, Hawaii 96813
+Aloha President Kouchi, Speaker Nakamura, and Members of the Legislature:
+This is to inform you that on July 14, 2026, the following bill was signed into law:
+S.B. NO. 3001, S.D. 2, H.D. 3. RELATING TO ARTIFICIAL INTELLIGENCE.
+C.D. 1 ACT 248
+Mahalo,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+Approved by the Governor'
+on JUL 14 2026 ACT 248
+THE SENATE
+S.B. NO.
+THIRTY-THIRD LEGISLATURE, 2026
+STATE OF HAWAII
+C.D, 1
+A BILL FOR AN ACT
+RELATING TO ARTIFICIAL INTELLIGENCE.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII;
+1 SECTION 1. This Act shall be known and may be cited as the
+2 "Artificial Intelligence Disclosure and Safety Act".
+3 SECTION 2. The legislature finds that artificial
+4 intelligence systems, capable of generating text, images, audio,
+5 video, and interactive dialogue, commonly referred to as
+6 generative artificial intelligence, are increasingly accessible
+7 to consumers, particularly children and minors, through
+8 websites, applications, educational tools, and consumer
+9 platforms.
+10 The legislature further finds that recent national and
+11 international reporting, academic research, and public safety
+12 investigations have raised significant concerns regarding the
+13 use of generative artificial intelligence chatbots and
+14 companion-style systems by minors. These concerns include:
+15 artificial intelligence systems that simulate human emotions,
+16 companionship, or emotional dependency in ways that may be
+17 confusing or harmful to minors; the use of manipulative design
+2026-2398 SB3001 GDI SMA-6.docx
+HiiiiiiiiiHiniMimoiiMi
+
+Page 2
+S.B. NO.
+C.D. 1
+1 features intended to increase engagement time, including
+2 gamification, emotional reinforcement, and simulated relational
+3 attachment; instances in which minors have relied on artificial
+4 intelligence systems for emotional support, mental health
+5 guidance, or crisis intervention beyond the systems' intended
+6 purpose or capability; the risk that minors may be misled into
+7 believing they are interacting with a human being or a sentient
+8 entity, rather than an automated system; and the potential for
+9 exposure to sexualized content, grooming behaviors, self-harm
+10 encouragement, or other harmful material through artificial
+11 intelligence systems designed with inadequate safeguards for
+12 minors.
+13 The legislature further finds that other states have
+14 successfully pursued legal avenues to hold technology companies
+15 accountable for the addictive design features of their products
+16 that can expose minors to harm, including social media
+17 platforms. In March, 2026, a jury found Meta liable for
+18 misleading consumers about the safety of its platforms and
+19 endangering children in the State of New Mexico v. Meta
+20 Platforms, Inc. trial. The evidence presented at trial showed
+21 that Meta intentionally makes the design of its platforms
+2026-2398 SB3001 CDl SMA-6.docx
+iiiimiiiiiiiiiiiMiiiHiiiiii
+
+Pages S.B. NO.
+C.D. 1
+1 addictive for young people and can expose them to dangerous
+2 content related to sexual exploitation, eating disorders, and
+3 self-harm. The jury ordered Meta to pay $375 million in civil
+4 penalties for violating New Mexico's consumer protection laws.
+5 The legislature recognizes that as an emerging technology,
+6 efforts to regulate artificial intelligence should balance
+7 consumer protection and privacy and proactively avoid the
+8 mandatory collection of data by technology companies such as
+9 identity documentation for age verification purposes. The
+10 legislature further finds that appropriate legislation is
+11 necessary to protect the State's consumers, particularly minors,
+12 from the dangers of generative artificial intelligence chatbots
+13 and companion-style systems.
+14 Accordingly, the purpose of this Act is to establish a
+15 framework of targeted, reasonable, and enforceable safeguards to
+16 protect consumers and minors from manipulative, deceptive, or
+17 unsafe design practices in conversational and companion-style
+18 artificial intelligence systems.
+19 SECTION 3. Chapter 481B, Hawaii Revised Statutes, is
+20 amended by adding a new section to part I to be appropriately
+21 designated and to read as follows:
+2026-2398 SB3001 CDl SMA-6.docx
+uiffliiiniiiwiuiiiiiMiiiiii
+
+Page 4
+S.B. NO.
+”’2
+C.D. 1
+1 "§481B- Artificial intelligence; AI conpanion;
+2 disclosures; reports; penalties. (a) If a reasonable person
+3 interacting with an AI companion would be led to believe that
+4 the person is interacting with a human, an operator shall issue
+5 a clear and conspicuous notification indicating that the AI
+6 companion is artificial intelligence and not human.
+7 (b) If an operator has actual knowledge or reasonable
+8 certainty that a user is a minor, the operator shall clearly and
+9 conspicuously disclose to the user that the user is interacting
+10 with artificial intelligence:
+11 (1) As a persistent visible disclaimer; or
+12 (2) Both:
+13 (A) At the beginning of each session; and
+14 (B) Appearing at least once per hour in a continuous
+15 AI companion interaction that reminds the user to
+16 take a break from the chat and that the
+17 conversation is artificially generated and not
+18 with a human.
+19 (c) An operator shall:
+20 (1) Adopt a protocol for the AI companion to respond to
+21 user prompts regarding suicidal ideation or self-harm
+2026-2398 SB3001 CDl SMA-6.docx
+Hiiiiiiiiniiiiinmiiiiiii
+
+Page 5 S.B. NO.
+s“’2
+C.D. 1
+1 that includes but is not limited to making reasonable
+2 effort£t^£rovide a res£onse that^^^ers thie us£r^
+3 crisis intervention service providers, such as a
+4 suicide hotline, crisis text line, or other
+5 appropriate crisis services;
+6 (2) Use evidence-based methods for measuring suicidal
+7 ideation and the risk of self-harm;
+8 (3) Not cause or program an AI companion to make any
+9 representation or statement that indicates that the AI
+10 companion is designed to provide professional mental
+11 or behavioral health care;
+12 (4) Institute reasonable measures to prevent the AI
+13 companion from making any representation or statement
+14 that would lead a reasonable person to believe that
+15 the person is interacting with a human where the user
+16 is seeking or receiving crisis intervention services
+17 for self-harm or suicide; and
+18 Institute reasonable measures to prevent the AI
+19 companion from generating outputs that encourage the
+20 user to cause serious bodily injury to another person.
+2026-2398 SB3001 CDl SMA-6.docx 5
+niiiMUiiHiiiimiiiim
+
+Page 6
+S.B. NO.
+C.D. 1
+1 (d) Where an operator knows or has reasonable certainty
+2 tliat a jjser i£a iriirwr^an ope£a tor shadJj
+3 (1) Not provide the user with points or similar rewards at
+4 unpredictable intervals with the intent to encourage
+5 increased engagement with the AI companion;
+6 (2) Not allow the AI companion to generate outputs to
+7 discourage disengagement with the AI companion;
+8 (3) Institute reasonable measures to prevent the AI
+9 companion from:
+10 (A) Producing visual material of sexually explicit
+11 conduct;
+12 (B) Generating direct statements that the user should
+13 engage in sexually explicit conduct; or
+14 (C) Generating statements that sexually objectify the
+15 user; and
+16 (4) Make tools available for users and their parents and
+17 guardians to manage the user's screen time and account
+18 settings.
+19 (e) Beginning January 1, 2028, an operator shall submit to
+20 the behavioral health administration of the department of health
+21 an annual report that includes:
+2026-2398 SB3001 GDI SMA-6.docx
+iiiiiiiiiiniHiBiiiiiiiiiiiiiii
+
+Page 7
+S.B. NO.
+H.D. 3
+CD. 1
+1 (1) The number of tijnes aj2 O£era;to£ha^i^sued a cri£^
+2 intervention services provider referral in the
+3 £recedin3 ca lenda^yea^
+4 (2) Protocols put in place to detect, remove, and respond
+5 to user prompts regarding suicidal ideation or self­
+6 harm; and
+7 (3) Protocols put in place to prohibit an AI companion
+8 response promoting suicidal ideation or actions or
+9 self-harm;
+10 provided that the report shall include only the information
+11 listed in this subsection and shall not include any identifiers
+12 or personal information about users.
+13 (f) Any violation of this section shall constitute an
+14 unfair or deceptive act or practice in the conduct of trade or
+15 commerce within the meaning of section 480-2; provided that
+16 nothing in this section shall be interpreted as creating a
+17 private right of action to enforce this section or to support a
+18 private right of action under any other law.
+19 (g) This section shall not create liability for the
+20 developer of an artificial intelligence model for any violation
+2026-2398 SB3001 GDI SMA-6.docx
+IIIIIIUIIIIHMIIIIIIHUiH
+
+Page 8
+S.B. NO.
+C.D. 1
+1 of this section by an artificial intelligence system developed
+2 by a third party to provide an AI companion.
+3 (h) The duties, remedies, and obligations imposed by this
+4 section are cumulative to the duties, remedies, or obligations
+5 imposed under other law and shall not be construed to relieve an
+6 operator from any duties, remedies, or obligations imposed under
+7 any other law.
+8 (i) For the purposes of this section:
+9 "AI companion" means a system using artificial
+10 intelligence, generative artificial intelligence, or emotional
+11 recognition algorithms designed to simulate a sustained human or
+12 human-like relationship with a user by:
+13 (1) Retaining information on prior interactions or user
+14 sessions and user preferences to personalize the
+15 interaction and facilitate ongoing engagement with the
+16 AI companion;
+17 (2) Asking unprompted or unsolicited emotion-based
+18 questions that go beyond a direct response to a user
+19 prompt; and
+20 (3) Sustaining an ongoing dialogue concerning matters
+21 personal to the user.
+2026-2398 SB3001 GDI SMA-6.docx
+HIMinWIIIIHIIiMIII
+
+Page 9 s.B. NO. S i
+C.D. 1
+1 "Artificial intelligence" means an engineered or
+2 machine-based system that varies in its level of autonomy and
+3 that can, for explicit or implicit objectives, infer from the
+4 input it receives how to generate outputs that can influence
+5 physical or virtual environments.
+6 "Crisis intervention" means communication intended to
+7 provide immediate support or assistance in response to a user
+8 seeking help for, referencing, or expressing self-harm, suicidal
+9 ideation, or suicide.
+10 "Minor" means any person under eighteen years of age.
+11 "Operator" means a person who develops and makes available
+12 an AI companion to the public. A mobile application store or
+13 search engine that merely provides access to an AI companion
+14 shall not by itself constitute an "operator".
+15 "Serious bodily injury" has the same meaning as defined in
+16 section 7Q7-70Q.
+17 "Sexually explicit conduct" has the same meaning as defined
+18 in title 18 United States Code section 2256.
+19 "Sexually objectify" means to make sexual comments directed
+20 at the user's body or appearance.
+2026-2398 SB3001 CDl SMA-6.docx 9
+liiiiimiiwimiiHiiiiiDii
+
+Page 10 S.B. NO. 2?^
+C.D. 1
+1 2^User2 jnean^a ge£son who has or generates an a£count or
+2 profile to use an AI companion."
+3 SECTION 4. If any provision of this Act, or the
+4 application thereof to any person or circumstance, is held
+5 invalid, the invalidity does not affect other provisions or
+6 applications of the Act that can be given effect without the
+7 invalid provision or application, and to this end the provisions
+8 of this Act are severable.
+9 SECTION 5. This Act does not affect rights and duties that
+10 matured, penalties that were incurred, and proceedings that were
+11 begun before its effective date.
+12 SECTION 6. ■ New statutory material is underscored.
+13 SECTION 7. This Act shall take effect upon its approval.
+2026-2398 SB3001 CDl SMA-6.docx
+iHiiHiiiHiiunnHiiinwioiwH
+
+S.B. NO.
+-'2
+C.D. 1
+APPROVED this 14th day of July . 2026
+GOVERNOR OF THE STATE OF HAWAI‘1
+
+S.B. No. 3001, S.D. 2, H.D. 3, C.D. 1
+THE SENATE OF THE STATE OF HAW API
+Date: May 6, 2026
+Honolulu, Hawai‘i 96813
+We hereby certify that the foregoing Bill this day passed Final Reading in the Senate
+of the Thirty-Third Legislature of the State of Hawai‘i, Regular Session of 2026.
+Clerk of the Senate
+95-26
+
+SB No. 3001, SD 2, HD 3, CD 1
+THE HOUSE OF REPRESENTATIVES OF THE STATE OF HAWAII
+Date: May 6, 2026
+Honolulu, Hawaii
+We hereby certify that the above-referenced Bill on this day passed Final Reading in the
+House of Representatives of the Thirty-Third Legislature of the State of Hawaii, Regular Session
+of 2026.
+Nadine K. Nakamura
+Speaker
+House of Representatives
+Brian L. Takeshita
+Chief Clerk
+House of Representatives
