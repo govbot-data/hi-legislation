@@ -1,0 +1,206 @@
+Title: 
+Official Title: 
+Source: versions - GM1326
+Media Type: application/pdf
+
+================================================================================
+
+I32.G
+GOV.MSG. .
+JOSH GREEN, M.D. no
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+July 9, 2026
+The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+President of the Senate, Speaker, and Members of the
+and Members of the Senate House of Representatives
+Thirty-Third State Legislature Thirty-Third State Legislature
+State Capitol. Room 409 State Capitol, Room 431
+Honolulu, Hawaii 96813 Honolulu, Hawaii 96813
+Aloha President Kouchi, Speaker Nakamura, and Members of the Legislature:
+This is to inform you that on July 9, 2026, the following bill was signed into law:
+H.B. NO. 1642, H.D. 1, S.D. 1, RELATING TO CONSUMER PROTECTION.
+C.D. 1 ACT 224
+Mahalo,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+Approved by the Governor
+ACT 224
+JUL 9 2026
+HOUSE OF REPRESENTATIVES H.B. NO 1642
+THIRTY-THIRD LEGISLATURE, 2026 H.D. 1
+STATE OF HAWAII S.D. 1
+C.D. 1
+A BILL FOR AN ACT
+RELATING TO CONSUMER PROTECTION.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAH:
+1 SECTION 1. The legislature finds that digital financial
+2 asset transaction kiosks pose a significant risk to the
+3 financial security of the residents of the State. Digital
+4 financial asset transaction kiosks - also known as
+5 cryptocurrency Automated Teller Machines or cryptoATMs - enable
+6 a customer to buy and sell digital financial assets from a
+7 wallet or exchange. After providing the digital financial asset
+8 transaction kiosk with identification, which can range from a
+9 phone number to a scan of a government-issued identification,
+10 the customer enters the address of the wallet that will receive
+11 the purchased digital financial asset. The address could be the
+12 customer’s own wallet or that of a third party. Finally, the
+13 customer inserts cash or a debit or credit card into the machine
+14 to finalize the purchase of the digital financial asset.
+15 The legislature further finds that due to their ease of
+16 use, digital financial asset transaction kiosks are increasingly
+17 being used to facilitate scam payments. Typically, criminals
+2026-3328 HB1642 GDI HMSO
+iiiiniiniiMiiiiiiniii
+
+Page 2
+H.B. NO.
+C.D. 1
+1 target older individuals through unsolicited calls, posing as
+2 the government, a bank, information technology support, or the
+3 customer service representative of a company. Once contact is
+4 made, the scammer provides detailed instructions to the
+5 prospective victim, including how to withdraw cash from the
+6 victim's bank, locate the kiosk, circumvent a kiosk's
+7 safeguards, and deposit and send funds using the kiosk to the
+8 wallet the scammer controls. After providing the instructions,
+9 the scammer stays in constant contact with the prospective
+10 victim until the payment is completed.
+11 The legislature also finds that after the scams are
+12 complete, victims face significant barriers to recovering their
+13 losses. First, scammers quickly route funds to offshore
+14 platforms once the transactions are complete, which makes it
+15 very difficult to recover from the scammers. Second, the
+16 operators have consistently argued that, while the cash may be
+17 in the machine, the victim's money has already been transferred
+18 to the scammer, and the operator is unable to assist the victim
+19 in recovering the money.
+20 The legislature finds that the proliferation of digital
+21 financial asset transaction kiosks and their increased use to
+2026-3328 HB1642 GDI HMSO
+
+Page 3
+H.B. NO.
+C.D. 1
+1 facilitate scam payments has led to Americans losing millions of
+2 dollars. In 2024, the Federal Bureau of Investigation's
+3 Internet Crime Complaint Center received more than 10,956
+4 complaints reporting the use of kiosks, with reported victim
+5 losses of approximately $246,700,000. That represents a ninety-
+6 nine per cent increase in the number of complaints and thirty-
+7 one per cent increase in reported victim losses from 2023. In
+8 the first six months of 2025, Americans lost around $240,000,000
+9 in kiosk scams, a rate that is twice as high as in 2024.
+10 Furthermore, several independent investigations, including
+11 investigations by the attorneys general for the District of
+12 Columbia and Iowa, have determined that a significant portion of
+13 transactions - as high as ninety per cent - were fraudulent
+14 transactions. Therefore, these kiosks pose a significant threat
+15 to the financial safety of the residents of this State.
+16 Accordingly, the purpose of this Act is to prohibit,
+17 beginning October 1, 2026, the ownership, operation, or
+18 management of a digital financial asset transaction kiosk that
+19 accepts United States currency from a customer in exchange for a
+20 digital financial asset.
+2026-3328 HB1642 CDl HMSO 3
+
+Page 4
+H.B. NO.
+C.D. 1
+1 SECTION 2. Chapter 481B, Hawaii Revised Statutes, is
+2 amended by adding a new section to part I to be appropriately
+3 designated and to read as follows:
+4 "§481B- Digital financial asset transaction kiosks;
+5 prohibition on deposits. (a) Beginning October 1, 2026, it
+6 shall be an unlawful practice under this chapter for an operator
+7 to own, operate, or manage in the State a digital financial
+8 asset transaction kiosk that accepts United States currency from
+9 a customer in exchange for a digital financial asset.
+10 (b) Nothing in this section shall prohibit an operator
+11 from owning, operating, or managing in the State a digital
+12 financial asset transaction kiosk that accepts a digital
+13 financial asset from a customer in exchange for:
+14 (1) A different digital financial asset; or
+15 (2) United States currency.
+16 (c) Each transaction in violation of subsection (a) shall
+17 be a separate offense.
+18 (d) As used in this section:
+19 "Cash" means physical United States currency, including
+20 coins and paper currency.
+2026-3328 HB1642 CDl HMSO
+■■■iiiMiilinniiiii
+
+Page 5 1642
+H.B. NO
+H.D. 1
+S.D. 1
+C.D. 1
+1 "Digital financial asset" means a digital representation of
+2 value that is used as a medium of exchange, unit of account, or
+3 store of value, and that is not legal tender, regardless of
+4 whether denominated in legal tender. "Digital financial asset"
+5 does not include:
+6 (1) A transaction in which a merchant grants, as part of
+7 an affinity or rewards program, value that cannot be
+8 taken from or exchanged with the merchant for legal
+9 tender, bank or credit union credit, or a digital
+10 financial asset;
+11 (2) A digital representation of value issued by or on
+12 behalf of a publisher and used solely within an online
+13 game, game platform, or family of games sold by the
+14 same publisher or offered on the same game platform;
+15 or
+16 (3) A security registered with or exempt from registration
+17 with the United States Securities and Exchange
+18 Commission or a security registered or exempt from
+19 registration under chapter 485A.
+20 "Digital financial asset transaction kiosk" means an
+21 electronic information processing device that is capable of
+2026-3328 HB1642 CDl HMSO
+nmiHiiiiiiMinii
+
+Page 6
+H.B. NO.
+C.D. 1
+1 accepting or dispensing United States currency by means of
+2 credit card or cash in exchange for a digital financial asset.
+3 "Operator" means a person who owns^ operates^ or manages a
+4 digital financial asset transaction kiosk located in the State."
+5 SECTION 3. New statutory material is underscored.
+6 SECTION 4. This Act shall take effect upon its approval.
+2026-3328 HB1642 CDl HMSO 6
+
+H.B. NO.
+T,
+h
+S.D. 1
+C.D. 1
+APPROVED this 9th day of July ,2026
+GOVERNOR OF THE STATE OF HAWAII
+
+HB No. 1642, HD 1, SD 1, CD 1
+THE HOUSE OF REPRESENTATIVES OF THE STATE OF HAWAII
+Date: May 6, 2026
+Honolulu, Hawaii
+We hereby certily that the above-referenced Bill on this day passed Final Reading in the
+House of Representatives of the Thirty-Third Legislature of the State of Hawaii, Regular Session
+of 2026.
+Nadine K. Nakamura
+Speaker
+House of Representatives
+Brian L. Takeshita
+Chief Clerk
+House of Representatives
+
+H.B. No. 1642, H.D. 1, S.D. 1, C.D. 1
+THE SENATE OF THE STATE OF HAWAI‘1
+Date: May 6, 2026
+Honolulu, Hawai‘i 96813
+We hereby certify that the foregoing Bill this day passed Final Reading in the Senate
+of the Thirty-Third Legislature of the State of Hawai‘i, Regular Session of 2026.
+Clerk of the Senate
+105-26
