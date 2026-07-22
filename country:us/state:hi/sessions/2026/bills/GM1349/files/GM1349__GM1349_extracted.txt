@@ -1,0 +1,259 @@
+Title: 
+Official Title: 
+Source: versions - GM1349
+Media Type: application/pdf
+
+================================================================================
+
+gov . msg . no . 134^
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+July 14, 2026
+The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+President of the Senate, Speaker, and Members of the
+and Members of the Senate House of Representatives
+Thirty-Third State Legislature Thirty-Third State Legislature
+State Capitol, Room 409 State Capitol, Room 431
+Honolulu, Hawaii 96813 Honolulu, Hawaii 96813
+Aloha President Kouchi, Speaker Nakamura, and Members of the Legislature:
+This is to inform you that on July 14, 2026, the following bill was signed into law:
+H.B. NO. 2137, H.D. 3, S.D. 2, RELATING TO ARTIFICIAL INTELLIGENCE.
+C.D. 1 ACT 247
+Mahalo,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+Approved by the Governor
+ACT 24 7
+on , JUL 1 4 2026
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+THIRTY-THIRD LEGISLATURE, 2026
+--3
+STATE OF HAWAII
+C.D. 1
+A BILL FORAN ACT
+RELATING TO ARTIFICIAL INTELLIGENCE.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+1 SECTION 1. The legislature finds that deepfake technology
+2 enables the realistic digital imitation of an individual’s
+3 voice, face, likeness, and performance. The legislature further
+4 finds that malicious uses of deepfake technology have been
+5 documented in identity theft, fraud, election interference,
+6 cyberbullying, and non-consensual pornography. Victims often
+7 face reputational, financial, and emotional harm, with detection
+8 rates for the use of deepfake imitations as low as sixty-two per
+9 cent even among experts.
+10 The legislature additionally finds that federal law
+11 addresses limited scenarios of the malicious use of deepfake
+12 technology, including explicit content targeting minors, but
+13 leaves broad gaps in consumer and reputational protection.
+14 Furthermore, the legislature finds that the State has a
+15 compelling interest in preventing fraud, identity theft,
+16 defamation, and emotional distress while also protecting lawful
+17 speech. Moreover, the legislature finds that it is important to
+2026-3283 HB2137 GDI HMSO
+iiiiiiiBiimiiiBiiniiHii
+
+Page 2
+H.B. NO.
+C.D. 1
+1 protect Hawaii residents from identity-based harm caused by the
+2 malicious use of artificial intelligence (AI) while safeguarding
+3 constitutional rights to free expression, parody, satire, and
+4 j ournalism.
+5 Therefore, the purpose of this Act is to:
+6 (1) Prohibit certain harmful uses of Al-generated personal
+7 likenesses; and
+8 (2) Provide civil remedies for individuals injured by
+9 unauthorized Al-generated realistic digital
+10 imitations.
+11 SECTION 2. The Hawaii Revised Statutes is amended by
+12 adding a new chapter to be appropriately designated and to read
+13 as follows:
+14 "CHAPTER
+15 ARTIFICIAL INTELLIGENCE; DIGITAL IMITATION; PERSONAL LIKENESS;
+16 PROTECTIONS
+17 § -1 Definitions. As used in this chapter:
+18 "Advertisement" means a message published in any medium
+19 with the primary purpose of promoting, directly or indirectly, a
+20 product, service, or commercial transaction.
+2026-3283 HB2137 CDl HMSO
+
+Page 3
+H.B. NO.
+C.D. 1
+1 "Artificial intelligence" or "AI" means a machine-based
+2 system that can, for a given set of human-defined objectives,
+3 make predictions, recommendations, or decisions influencing real
+4 or virtual environments, and that uses machine and human-based
+5 inputs to:
+6 (1) Perceive real and virtual environments;
+7 (2) Abstract perceptions of real and virtual environments
+8 into models through analysis in an automated manner;
+9 and
+10 (3) Use model inference to formulate opinions for
+11 information or action.
+12 "Consent" means express, written permission from a depicted
+13 individual or the depicted individual's authorized
+14 representative.
+15 "Digital imitation" means any highly realistic Al-generated
+16 depiction, audio, or video that is derived from or based upon
+17 identifying characteristics of an actual, particular individual
+18 and portrays that individual's voice, face, or likeness in a
+19 sound recording or audiovisual work in which the individual did
+20 not actually perform or appear.
+2026-3283 HB2137 CDl HMSO 3
+iniiniMiiiiMiiiiHiiiiiiiii
+
+Page 4 H.B. NO. Hfa
+C.D. 1
+1 "Harm" includes reputational injury, financial loss,
+2 emotional distress, or the misappropriation of identity for
+3 commercial gain.
+4 "Publish" means to display, present, or release to the
+5 public, or cause to be displayed, presented, or released to the
+6 public.
+7 "Realistic" means so lifelike that a reasonable person
+8 would believe that the depiction, audio, or video portraying an
+9 actual, particular individual's voice, face, or likeness is
+10 authentic.
+11 § -2 Prohibited acts. It shall be unlawful for any
+12 person to knowingly publish a realistic digital imitation of an
+13 identifiable individual without that individual's consent if the
+14 imitation:
+15 (1) Is used in connection with an advertisement;
+16 (2) Causes harm; or
+17 (3) Is used to commit fraud, defamation, harassment, or
+18 other criminal acts.
+19 § -3 Exemptions. This chapter shall not apply to
+20 content generated or altered by artificial intelligence that is:
+2026-3283 HB2137 CDl HMSO 4
+
+Page 5 2137
+H.B. NO.
+H.D. 3
+S.D. 2
+C.D. 1
+1 (1) A form of parody, satire, commentary, criticism,
+2 scholarship, or political or educational expression;
+3 (2) News reporting, where the content generated or altered
+4 by artificial intelligence is used to illustrate a
+5 story;
+6 (3) A representation of the applicable individual as the
+7 individual in a documentary or in a historical or
+8 biographical manner, including some degree of
+9 fictionalization; and
+10 (4) An advertisement or commercial announcement for
+11 content described in paragraphs (1) through (3);
+12 provided that the applicable digital imitation is
+13 relevant to the subject of the work so advertised or
+14 announced.
+15 § -4 Civil actions; civil remedies. (a) If:
+16 (1) A realistic digital imitation of an individual is
+17 published in violation of section -2 without the
+18 individual's consent; and
+19 (2) The realistic digital imitation is not exempted under
+20 section -3,
+2026-3283 HB2137 CDl HMSO 5
+■nniiiiiiiiiiiiiiiii
+
+Page 6
+H.B. NO.
+C.D. 1
+1 the individual or the individual's estate, for up to ten years
+2 after the death of the individual, may bring an action for civil
+3 remedies pursuant to subsection (b); provided that nothing in
+4 this section shall be construed to extend the period of
+5 limitation under chapter 657 applicable to the action in this
+6 subsection.
+7 (b) In accordance with subsection (a), an individual or an
+8 individual's estate may bring a civil action for:
+9 (1) Injunctive relief, including an order to remove or
+10 cease distribution of the realistic digital imitation;
+11 (2) Monetary damages of up to $25,000 per advertisement or
+12 recovery of actual damages, including for reputational
+13 injury and emotional distress;
+14 (3) Punitive damages, where malice is proven; and
+15 (4) Reasonable attorneys' fees and court costs.
+16 (c) A cause of action for injunctive or other equitable
+17 relief may be brought by the attorney general in instances in
+18 which the distribution of realistic digital imitations involves
+19 broad public interest or widespread harm. This subsection shall
+20 not be construed to limit the right of an individual or
+2026-3283 HB2137 CDl HMSO 6
+NHiRIMINiniillinilllll
+
+Page 7 H.B. NO.
+Hf3
+C.D. 1
+1 individual's estate, if applicable, to bring a civil action
+2 pursuant to subsection (b).
+3 (d) This section shall not limit or preclude the
+4 individual or individual's estate, if applicable, from pursuing
+5 any other available remedy.
+6 § -5 Application. (a) Except as provided in subsection
+7 (b), this chapter shall apply to the fullest extent permitted by
+8 federal law.
+9 (b) This chapter shall not apply to any medium used for
+10 the publication or dissemination of third-party content,
+11 including but not limited to newspapers, magazines, television
+12 networks and stations, streaming services, cable television
+13 systems, and transit advertisements, by whom any content in
+14 violation of this chapter is disseminated; provided that this
+15 exemption shall apply only to the medium's role in publishing or
+16 disseminating the third-party content and shall not be construed
+17 to exempt the underlying conduct regulated by this chapter.
+18 (c) Nothing in this chapter shall be construed to limit or
+19 expand the protections conferred by title 47 United States Code
+20 section 230 on an interactive computer service for content
+21 provided by another information content provider."
+2026-3283 HB2137 CDl HMSO 7
+■MHiiiiiiiniiiiiiin
+
+Page 8 H.B. NO.
+"-3
+C.D. 1
+1 SECTION 3. If any provision of this Act, or the
+2 application thereof to any person or circumstance, is held
+3 invalid, the invalidity does not affect other provisions or
+4 applications of the Act that can be given effect without the
+5 invalid provision or application, and to this end the provisions
+6 of this Act are severable.
+7 SECTION 4. This Act does not affect rights and duties that
+8 matured, penalties that were incurred, and proceedings that were
+9 begun before its effective date.
+10 SECTION 5. This Act shall take effect upon its approval.
+2026-3283 HB2137 CDl HMSO 8
+■11111111111111111111111111
+
+H.B, NO. SgTs
+C.D. 1
+APPROVED this 14th day of July , 2026
+GOVERNOR OF THE STATE OF HAWAII
+
+HB No. 2137, HD 3, SD 2, CD 1
+THE HOUSE OF REPRESENTATIVES OF THE STATE OF HAWAII
+Date: May 6, 2026
+Honolulu, Hawaii
+We hereby certify that the above-referenced Bill on this day passed Final Reading in the
+House of Representatives of the Thirty-Third Legislature of the State of Hawaii, Regular Session
+of 2026.
+Nadine K. Nakamura
+Speaker
+House of Representatives
+Brian L. Takeshita
+Chief Clerk
+House of Representatives
+
+H.B. No. 2137, H.D. 3, S.D. 2, C.D. 1
+THE SENATE OF THE STATE OF HAW API
+Date: May 6, 2026
+Honolulu, Hawai‘i 96813
+We hereby certify that the foregoing Bill this day passed Final Reading in the Senate
+of the Thirty-Third Legislature of the State of Hawai‘i, Regular Session of 2026.
+Clerk of the Senate
+65-26
