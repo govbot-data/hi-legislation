@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - GM1324
+Media Type: application/pdf
+
+================================================================================
+
+1324
+JOSH GREEN, M.D. G0V.MSG. .
+no
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+July 9, 2026
+The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+President of the Senate, Speaker, and Members of the
+and Members of the Senate House of Representatives
+Thirty-Third State Legislature Thirty-Third State Legislature
+State Capitol, Room 409 State Capitol, Room 431
+Honolulu, Hawaii 96813 Honolulu, Hawaii 96813
+Aloha President Kouchi, Speaker Nakamura, and Members of the Legislature:
+This is to inform you that on July 9, 2026, the following bill was signed into law:
+S.B. NO. 3132, S.D. 1, H.D. 2, RELATING TO SYNDROMIC SURVEILLANCE.
+C D. 1 ACT 222
+Mahalo,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+Appraved byfrie Governor
+ACT 222
+on , ' ■
+THE SENATE O m 3132
+THIRTY-THIRD LEGISLATURE. 2026 K N tj S.D. 1
+STATE OF HAWAII " H.D. 2
+C.D. 1
+A BILL FOR AN ACT
+RELATING TO SYNDROMIC SURVEILLANCE.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+1 SECTION 1. The legislature finds that timely reporting of
+2 data is critical to the ability of public health officials to
+3 detect and respond to health threats and disease trends.
+4 Syndromic surveillance is the analysis of health-related data
+5 from events that affect health status and outcomes for public
+6 health purposes, such as early detection of disease outbreaks.
+7 Syndromic surveillance provides automated, near real-time
+8 collection and transmission of data, including but not limited
+9 to chief complaint, discharge diagnosis, visit dates, patient
+10 demographics, patient zip code, and facility location.
+11 Syndromic surveillance data is de-identified, meaning that
+12 patient names, addresses, and other data elements that could
+13 identify an individual are not transmitted.
+14 The value of syndromic surveillance has been demonstrated
+15 in the State during responses to wildfires, volcanic eruptions,
+16 drinking water contamination, and communicable disease
+17 outbreaks. Syndromic surveillance in these events prompted
+2026-2513 SB3132 GDI SMA.docx
+lillHnilllilllBIUIIIUIIII
+
+Page 2
+S.B. NO.
+C.D. 1
+1 real-time clinical guidance and targeted health interventions,
+2 informed resource allocation decisions, and guided public
+3 messaging.
+4 The legislature also finds that the use of syndromic
+5 surveillance data, currently collected through the National
+6 Syndromic Surveillance Program, can enable the department of
+7 health and other state agencies to better monitor, act on, and
+8 understand a wide range of public health concerns, including
+9 communicable disease, chronic disease, disaster and terrorism
+10 response, climate and .weather-related illness and injury, gun
+11 violence, suicidal ideation, and drug use and overdose.
+12 At present, the department of health can access and analyze
+13 data collected by the National Syndromic Surveillance Program.
+14 However, data is submitted to that program on a voluntary basis
+15 and the department of health does not have the authority to
+16 require participation or determine how data is submitted.
+17 Additionally, the State's dependence on the National Syndromic
+18 Surveillance Program, which is federally funded and
+19 administered, leaves the State vulnerable to changes in federal
+20 data collection priorities. Furthermore, the National Syndromic
+21 Surveillance Program offers minimal flexibility and does not
+2026-2513 SB3132 CDl SMA.docx
+iwiiHiiiiiHMinioiiiiiiini
+
+Page 3 S.B. NO. 3132
+S.D. 1
+H.D. 2
+C.D. 1
+1 always meet the needs of the State to the extent necessary for
+2 adequate public health management. The department of health is
+3 unable to customize analyses of data from the National Syndromic
+4 Surveillance Program to the State's population and public health
+5 concerns, including health disparities. Because participation
+6 in the National Syndromic Surveillance Program is voluntary,
+7 there are geographical "data deserts" in rural areas where the
+8 department of health has an incomplete understanding of public
+9 health concerns.
+10 The legislature further finds that the department of
+11 health's recently updated electronic disease surveillance system
+12 can support a local syndromic surveillance system that does not
+13 rely on a federal data system and is more customizable, allowing
+14 for integration with other department of health systems and more
+15 efficient collaboration with other state agencies.
+16 The legislature additionally finds that it is critical that
+17 the department of health retain and strengthen its ability to
+18 collect and use syndromic surveillance data independent of
+19 federal systems to ensure the department can rapidly detect and
+20 respond to public health threats.
+21 Accordingly, the purpose of this Act is to:
+2026-2513 SB3132 CDl SMA.docx
+iiHiiiianiiiiiiiwiiHiiinin
+
+Page 4 S.B. NO.
+C.D. 1
+1 (1) Require all hospitals with emergency departments
+2 licensed in the State to report syndromic surveillance
+3 data to the department of health; and
+4 (2) Authorize the department of health to establish a
+5 state syndromic surveillance data reporting program.
+6 SECTION 2. Chapter 321, Hawaii Revised Statutes, is
+7 amended by adding a new part to be appropriately designated and
+8 to read as follows:
+9 "PART SYNDROMIC SURVEILLANCE
+10 §321- Definitions. As used in this part:
+11 "Department" means the department of health.
+12 "Syndromic surveillance data" means de-identified data that
+13 signals a sufficient probability of a case, an outbreak of
+14 disease, or other event that may warrant a public health
+IS response, including but not limited to:
+16 (1) Chief complaint;
+17 (2) Discharge diagnosis;
+18 (3) Visit dates;
+19 (4) Patient demographics;
+20 (5) Patient zip code; and
+21 (6) Facility location.
+2026-2513 SB3132 CDl SMA.docx
+MIIBIIIIIIIillllllillllM
+
+Pages S.B. NO. 3132
+S.D. 1
+H.D. 2
+C.D, 1
+1 §321- Syndromic surveillance data collection;
+2 authorized. (a) All hospitals with emergency departments that
+3 are licensed in the State shall report syndromic surveillance
+4 data to the department in a manner and format specified by the
+5 department on its website. Information required to be reported
+6 includes data regarding:
+7 (1) Infectious or communicable diseases;
+8 (2) Noninfectious causes of acute or chronic illness;
+9 (3) Intentional or accidental use or misuse of chemical,
+10 biological, radiological, or nuclear agents;
+11 (4) Adverse environmental events or natural disasters,
+12 including but not limited to hurricanes, floods, and
+13 fires; or
+14 (5) Any other emerging threat or condition affecting
+15 public health.
+16 (b) The department may establish by rules adopted pursuant
+17 to chapter 91 a state syndromic surveillance data reporting
+18 system to collect, maintain, and analyze syndromic surveillance
+19 data.
+20 (c) The department may adopt rules pursuant to chapter 91
+21 to require additional entities, including but not limited to
+2026-2513 SB3132 CDl SMA.docx
+■BIIIMMIIIIIIIIHHIH
+
+S.B. NO.
+C.D. 1
+I urgent care facilities, emergency medical services providers,
+2 other health care facilities, and poison control centers, to
+3 submit syndromic surveillance data.
+4 §321- Confidentiality. Syndromic surveillance data
+5 shall be confidential and shall only be shared or redisclosed
+6 pursuant to federal and state laws, regulations, and rules
+7 governing health information privacy and security or for
+8 research purposes that have been approved by the department's
+9 institutional review board; provided that the department may
+10 publicly release aggregated statistical data that does not allow
+11 identification of individuals.
+12 §321- Rules. The director of health may adopt rules
+13 pursuant to chapter 91 necessary to carry out the purposes of
+14 this part."
+15 SECTION 3. This Act shall take effect upon its approval.
+2026-2513 SB3132 CDl SMA.docx 6
+lllllllllllllilfnillillEIUH
+
+3132
+S.B. NO.
+co
+X
+d
+Q
+Q
+Q
+APPROVED this 9th day of July ,2026
+
+S.B. No. 3132, S.D. 1, H.D. 2, C.D. 1
+THE SENATE OF THE STATE OF HAWAI‘I
+Date: May 6, 2026
+Honolulu, Hawai‘i 96813
+We hereby certify that the foregoing Bill this day passed Final Reading in the Senate
+of the Thirty-Third Legislature of the State of Hawai‘i, Regular Session of 2026.
+Clerk of the Senate
+223-26
+
+SB No. 3132, SD 1,HD 2, CD 1
+THE HOUSE OF REPRESENTATIVES OF THE STATE OF HAWAII
+Date: May 6, 2026
+Honolulu, Hawaii
+We hereby certify that the above-referenced Bill on this day passed Final Reading in the
+House of Representatives of the Thirty-Third Legislature of the State of Hawaii, Regular Session
+of 2026.
+Nadine K. Nakamura
+Speaker
+House of Representatives
+Brian L. Takeshita
+Chief Clerk
+House of Representatives
