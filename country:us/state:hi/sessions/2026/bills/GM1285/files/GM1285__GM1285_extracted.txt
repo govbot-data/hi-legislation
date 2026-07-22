@@ -1,0 +1,293 @@
+Title: 
+Official Title: 
+Source: versions - GM1285
+Media Type: application/pdf
+
+================================================================================
+
+GOV.MSG. . 12^5
+no
+JOSH GREEN, M.D.
+governor
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE‘ENA 0 KE KIA'AINA
+July 6, 2026
+The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+President of the Senate, Speaker, and Members of the
+and Members of the Senate House of Representatives
+Thirty-Third State Legislature Thirty-Third State Legislature
+State Capitol, Room 409 State Capitol, Room 431
+Honolulu, Hawaii 96813 Honolulu, Hawaii 96813
+Aloha President Kouchi, Speaker Nakamura, and Members of the Legislature:
+This is to inform you that on July 6, 2026, the following bill was signed into law;
+H.B. NO. 2583, H.D. 1, S.D. 1, RELATING TO ECONOMIC DEVELOPMENT.
+CD. 1 ACT 183
+Mahalo,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+Approved by the Governor
+JUL 6 2026 ACT 18 3
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+THIRTY-THIRD LEGISLATURE, 2026
+STATE OF HAWAII
+C.D. 1
+A BILL FOR AN ACT
+RELATING TO ECONOMIC DEVELOPMENT.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+1 SECTION 1. The legislature finds that access.to
+2 affordable, right-sized credit is essential for small business
+r
+3 formation, survival, and expansion in the State's geographically
+4 isolated and high-cost economy. Small businesses, particularly
+5 startups, sole proprietors, and very small employers, depend on
+6 smaller-dollar loans to finance working capital, equipment,
+7 inventory, leasehold improvements, and early operating expenses.
+8 The legislature further finds that publicly available data
+9 from the United States Small Business Administration (SBA)
+10 indicates that a substantial share of SBA-backed loans made to
+11 Hawaii businesses are originated by lenders headquartered
+12 outside the State, rather than by Hawaii-based banks and
+13 community lenders. This pattern reflects limited local capacity
+14 for smaller-dollar lending and constrained lender risk tolerance
+15 in the absence of credit enhancement tools.
+16 The legislature additionally finds that when small business
+17 credit is primarily originated by out-of-state lenders, interest
+2026-3314 HB2583 CDl HMSO
+■WniHiUlllHilM
+
+Page 2 H.B. NO.
+C.D. 1
+1 payments, fees, and servicing revenues are more likely to leave
+2 the State, reducing the local economic multiplier effect that
+3 would otherwise occur if those dollars were retained and
+4 reinvested through local financial institutions. Over time,
+5 this dynamic contributes to capital leakage from the State and
+6 weakens the State's locally rooted small business financing
+7 ecosystem.
+8 The legislature also finds that limited availability of
+9 locally delivered micro-loans increases financial risk for
+10 Hawaii entrepreneurs. In the absence of sufficient
+11 micro-lending capacity among local lenders, small businesses may
+12 be forced to rely on higher-cost or riskier credit products,
+13 accept less favorable loan terms, or delay business formation,
+14 expansion, and hiring altogether. These constraints
+15 disproportionately affect early-stage businesses, rural
+16 communities, and neighbor islands.
+17 The legislature recognizes that other states have
+18 successfully addressed similar capital access challenges through
+19 state-supported loan loss reserve and credit enhancement
+20 programs that share risk with lenders while leveraging private
+21 capital. In particular:
+2026-3314 HB2583 CDl HMSO
+■iiiiuiiiiiiiiiiaiio
+
+Page 3
+H.B. NO.
+C.D. 1
+1 (1) California operates a long-standing small business
+2 capital access program that establishes loan loss
+3 reserve accounts funded by borrower and lender
+4 contributions matched by the state, enabling lenders
+5 to extend credit to small businesses that would not
+6 otherwise qualify on comparable terms;
+7 (2) Colorado administers a credit reserve program that
+8 uses borrower fees and state matching contributions to
+9 capitalize lender-held reserve accounts that absorb
+10 first losses on enrolled loans, expanding access to
+11 smaller-dollar loans while preserving prudent
+12 underwriting standards and voluntary participation;
+13 and
+14 (3) Florida operates a state capital access program that
+15 similarly establishes loan loss reserve accounts
+16 through borrower and lender contributions matched by
+17 the state,
+18 demonstrating that credit enhancement models can be successfully
+19 deployed in tourism-driven, small-business-dominated economies
+20 with significant seasonal cash-flow variability, conditions that
+21 closely mirror Hawaii's economic structure.
+2026-3314 HB2583 CDl HMSO
+iiiiiiiiNiiimiiiiiiii
+
+Page 4 ■ ■ 2583
+H.B. NO.
+C.D. 1
+1 The legislature further finds that these programs are
+2 effective because they are market-based, voluntary, and fiscally
+3 disciplined, leveraging private lending rather than replacing it
+4 and expanding access to credit without imposing mandates on
+5 lenders.
+6 Accordingly, the purpose of this Act is to strengthen the
+7 State's small business financing ecosystem by establishing a
+8 state-supported micro-lending credit enhancement program that
+9 expands local lending capacity, retains more financial activity
+10 within the State, reduces reliance on higher-risk borrowing
+11 options, and improves access to affordable, appropriately sized
+12 capital for entrepreneurs in the State.
+13 SECTION 2. The Hawaii Revised Statutes is amended by
+14 adding a new chapter to be appropriately designated and to read
+15 as follows:
+16 "CHAPTER
+17 HAWAII MICRO-LENDING CREDIT ENHANCEMENT PROGRAM
+18 § -1 Definitions. As used in this chapter:
+19 "Credit enhancement" means a loan loss reserve, first-loss
+20 reserve, partial guarantee, or other risk-sharing mechanism
+2026-3314 HB2583 CDl HMSO
+
+Page 5
+H.B. NO.
+C.D. 1
+1 approved by the department to encourage lending that would not
+2 otherwise occur on comparable terms,
+3 "Department" means the department of business, economic
+4 development, and tourism.
+5 "Eligible lender" means a state- or federally-chartered
+6 bank, savings bank, credit union, certified community
+7 development financial institution, or other financing entity
+8 approved by the department that originates and services business
+9 loans in the State.
+10 "Micro-loan" has the same meaning as "microloan" in title
+11 13 Code of Federal Regulations section 120.701.
+12 "Program" means the Hawaii micro-lending credit enhancement
+13 program established pursuant to this chapter.
+14 "Qualified borrower" means a for-profit small business
+15 that:
+16 (1) Is authorized to do business in the State;
+17 (2) Maintains its primary operations in the State; and
+18 (3) Meets size standards as determined by the department
+19 by rule.
+20 § -2 Hawaii micro-lending credit enhancement program;
+21 established. (a) There is established within the department
+2026-3314 HB2583 CDl HMSO
+■iinniuiiniiMiiiiii
+
+Page 6
+H.B. NO.
+C.D. 1
+1 the Hawaii micro-lending credit enhancement program to encourage
+2 eligible lenders to increase the availability of micro-loans to
+3 qualified borrowers through state-supported credit enhancement.
+4 (b) Lender and borrower participation in the program shall
+5 be voluntary. Nothing in this chapter shall be construed to
+6 require an eligible lender to make any loan or alter prudent
+7 underwriting standards.
+8 § -3 Credit enhancement mechanisms; loan loss reserves.
+9 (a) The department may provide credit enhancement through one
+10 or more of the following mechanisms:
+11 (1) Loan loss reserve accounts established with
+12 participating eligible lenders;
+13 (2) First-loss reserve arrangements that absorb a portion
+14 of initial losses on qualified micro-loans; or
+15 (3) Other risk-sharing mechanisms approved by the
+16 department that are consistent with recognized state
+17 small business credit enhancement practices.
+18 (b) The department may require, as a condition of
+19 participation in the program, that:
+2026-3314 HB2583 GDI HMSO 6
+llliHMaillMIAliH
+
+Page 7 ■H ■ .B. iNk ■ O. 2583
+HD1
+C.D. 1
+1 (1) A qualified borrower pay a fee of up to one per cent
+2 of the micro-loan principal, which shall be deposited
+3 into a lender-held loan loss reserve account; and
+4 (2) The program provide a matching contribution, in an
+5 amount determined by the department, deposited into
+6 the same reserve account.
+7 (c) Funds in a loan loss reserve account shall be used
+8 solely to cover losses on qualified micro-loans in accordance
+9 with program guidelines established by the department.
+10 § -4 Eligible uses; exclusions. (a) Qualified
+11 micro-loans may be used for standard business purposes,
+12 including working capital, equipment, inventory, leasehold
+13 improvements, and other uses approved by the department.
+14 (b) The department shall establish by rule any exclusions
+15 necessary to protect the integrity of the program.
+16 § -5 Administration; rules; contracts. (a) The
+17 department shall administer the program and may adopt rules
+18 pursuant to chapter 91 to implement this chapter.
+19 (b) The department may contract with a qualified
+20 third-party program administrator to support lender enrollment,
+21 reserve administration, compliance monitoring, and reporting.
+2026-3314 HB2583 GDI HMSO
+
+Page 8 H.B. NO. ""
+C.D. 1
+1 § -6 Hawaii micro-lending credit enhancement special
+2 fund. (a) There is established in the state treasury the
+3 Hawaii micro-lending credit enhancement special fund.
+4 (b) The following shall be deposited into the special
+5 fund:
+6 (1) Moneys received from the federal government;
+7 (2) Grants, awards, donations, gifts, transfers, or money
+8 derived from private sources;
+9 (3) Moneys received pursuant to the program; and
+10 (4) Interest earned or accrued on moneys in the special
+11 fund.
+12 (c) Moneys in the special fund may be expended by the
+13 department for credit enhancement, program administration, and
+14 reporting.
+15 § -7 Reporting. No later than twenty days prior to the
+16 convening of each regular session, the department shall submit a
+17 report to the legislature that details the following:
+18 (1) The number and dollar amount of micro-loans supported
+19 pursuant to this chapter;
+20 (2) The lenders participating in the program;
+2026-3314 HB2583 GDI HMSO 8
+linnniniiHiiiiiiiiHin
+
+Page 9
+H.B. NO.
+C.D. 1
+1 (3) The geographic distribution of loans under the
+2 program;
+3 (4) The reserve contributions, claims, and recoveries
+4 under the program; and
+5 (5) The estimated private capital leveraged per state
+6 dollar under the program."
+7 SECTION 3. There is appropriated out of the Hawaii
+8 micro-lending credit enhancement special fund the sum of
+9 $1,500,000 or so much thereof as may be necessary for fiscal
+10 year 2026-2027 for the Hawaii micro-lending credit enhancement
+11 program.
+12 The sum appropriated shall be expended by the department of
+13 business, economic development, and tourism for the purposes of
+14 this Act.
+15 SECTION 4. This Act shall take effect on July 1, 2026.
+2026-3314 HB2583 CDl HMSO
+
+H.B. NO. 2583
+I
+nc
+O
+b
+b
+b
+APPROVED this 6th day of July , 2026
+GOVERNOR OF THE STATE OF HAWAII
+
+HB No. 2583, HD 1, SD 1,CD 1
+THE HOUSE OF REPRESENTATIVES OF THE STATE OF HAWAII
+Date: May 6, 2026
+Honolulu, Hawaii
+We hereby certify that the above-referenced Bill on this day passed Final Reading in the
+House of Representatives of the Thirty-Third Legislature of the State of Hawaii, Regular Session
+of 2026.
+Nadine K. Nakamura
+Speaker
+House of Representatives
+Brian L. Takeshita
+Chief Clerk
+House of Representatives
+
+H.B. No. 2583, H.D. 1, S.D. 1, C.D. 1
+THE SENATE OF THE STATE OF HAW API
+Date: May 6, 2026
+Honolulu, Hawai‘i 96813
+We hereby certify that the foregoing Bill this day passed Final Reading in the Senate
+of the Thirty-Third Legislature of the State of Hawai‘i, Regular Session of 2026.
+Clerk of the Senate
+188-26
