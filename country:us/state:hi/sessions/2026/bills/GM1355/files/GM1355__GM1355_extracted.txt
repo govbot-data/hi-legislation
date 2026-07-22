@@ -1,0 +1,213 @@
+Title: 
+Official Title: 
+Source: versions - GM1355
+Media Type: application/pdf
+
+================================================================================
+
+1555
+G0V.MSG. .
+no
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+July 14, 2026
+The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+President of the Senate, Speaker, and Members of the
+and Members of the Senate House of Representatives
+Thirty-Third State Legislature Thirty-Third State Legislature
+State Capitol, Room 409 State Capitol, Room 431
+Honolulu, Hawaii 96813 Honolulu, Hawaii 96813
+Aloha President Kouchi, Speaker Nakamura, and Members of the Legislature:
+This is to inform you that on July 14, 2026, the following bill was signed into law:
+S.B. NO. 888, S.D. 2, H.D. 2, RELATING TO CONSUMER PROTECTION.
+C.D. 1 ACT 253
+Mahalo,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+Approved by frie Governor
+ACT 253
+JUL 1 4 2026
+THE SENATE S.B. NO. "2
+THIRTY-THIRD LEGISLATURE, 2025
+STATE OF HAWAII H.D. 2
+C.D. 1
+A BILL FOR AN ACT
+RELATING TO CONSUMER PROTECTION.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+1 SECTION 1. Chapter 481B, Hawaii Revised Statutes, is
+2 amended by adding a new section to part I to be appropriately
+3 designated and to read as follows:
+4 ”§481B- Smart household security devices; data sharing
+5 with law enforcement; prohibition; penalties. (a) An operator
+6 shall not share smart household security device user data with a
+7 law enforcement agency unless:
+8 (1) The user consents in writing to share their data with
+9 a law enforcement agency;
+10 (2) The law enforcement agency provides the operator with
+11 a judicial warrant requiring the operator to share the
+12 data with the law enforcement agency; or
+13 (3) There is an emergency situation; provided that:
+14 (A) The emergency involves a clear and present danger
+15 of imminent death or serious bodily harm to a
+16 person or persons resulting from a kidnapping, an
+2026-2414 SB888 CDl SMA.docx
+liHIHHINIIIIIIIiMIHI
+
+Page 2 S.B. NO.
+-2
+C.D. 1
+1 abduction, or the holding of a hostage by force
+2 or the threat of the imminent use of force;
+3 (B) There was no prior notice of the emergency
+4 sufficient to obtain prior judicial approval, and
+5 the law enforcement officer reasonably believes
+6 that an order permitting the obtaining of smart
+7 household security device data would be issued
+8 were there prior judicial review;
+9 (C) The smart household security device data is
+10 necessary and the only potential data available
+11 to prevent imminent death or serious bodily harm
+12 to a person or persons; and
+13 (D) The smart household security device data must and
+14 can be accessed before a judicial warrant could
+15 be issued to prevent imminent death or serious
+16 bodily harm to a person or persons.
+17 (b) An operator shall not require a user to consent to the
+18 sharing of smart household security device data with a law
+19 enforcement agency as a condition of using a smart household
+20 security device. An operator shall clearly and conspicuously
+21 inform the user, through a visible disclaimer, that the user is
+2026-2414 SB888 GDI SMA.docx
+
+Page 3 S.B. NO.
+-2
+C.D. 1
+1 not required to consent to sharing data with a law enforcement
+2 agency and that refusing to consent will not terminate the
+3 user's ability to use the smart household security device.
+4 (c) Any violation of this section shall be deemed an
+5 unfair or deceptive act or practice in trade or commerce in
+6 violation of chapter 480.
+7 (d) The attorney general may bring an action based on a
+8 violation of this section to recover all of the following
+9 relief:
+10 (1) Injunctive relief;
+11 (2) Damages in an amount equal to the greater of:
+12 (A) Actual damages; or
+13 (B) A civil penalty in accordance with section
+14 480-3.1; and
+15 (3) Reasonable attorneys' fees and costs.
+16 (e) Notwithstanding section 480-2 or any law to the
+17 contrary, and notwithstanding subsection (f), no person,
+18 including a consumer, may bring a private action to enforce this
+19 section or a private action under any other law based on a
+20 violation of this section.
+2026-2414 SB888 CDl SMA.docx 3
+IIIIHIIIIIIIIHIIMIIIIillllll
+
+Page 4 S.B. NO 888
+S.D. 2
+H.D.2
+C.D. 1
+1 (f) The duties, remedies, and obligations imposed by this
+2 section shall be cumulative to the duties, remedies, or
+3 obligations imposed under other law and shall not be construed
+4 to relieve an operator from any duties, remedies, or obligations
+5 imposed under any other law.
+6 (g) For the purposes of this section:
+7 "Judicial warrant" means an order in writing or otherwise
+8 pursuant to section 803-33.5 made by a judge or other
+9 magistrate, or a warrant issued pursuant to Rule 41 of the
+10 Federal Rules of Criminal Procedure.
+11 "Law enforcement agency" means any county police
+12 department, the department of law enforcement, and any federal,
+13 state, or county public body that employs law enforcement
+14 officers.
+15 "Law enforcement officer" means any public servant, whether
+16 employed by the United States, the State, or a county, who is
+17 vested by law with a duty to maintain public order or to make
+18 arrests for offenses or to enforce the criminal laws, whether
+19 that duty extends to all offenses or is limited to a specific
+20 class of offenses.
+2026-2414 SB888 CDl SMA.docx
+IMIHIIIIIMIIillinillillMI
+
+Page 5 S.B. NO. "2
+C.D. 1
+1 "Operator" means a person who develops^ makes available, or
+2 operates a smart household security device for the public and
+3 who collects, retains, or controls access to smart household
+4 security device data associated with a user account profile.
+5 "Operator" does not include a retail store solely because the
+6 retail store provides access to or sells a smart household
+7 security device.
+8 "Smart household security device" means a device primarily
+9 intended for residential security or monitoring that;
+10 (1) Is installed or affixed to a residential dwelling,
+11 accessory structure, or entryway;
+12 (2) Continuously or intermittently captures visual images
+13 o£a udio recordlji2®2°^L^2th j and
+14 (3) Enables storage, transmission, or remote access to the
+15 recordings through a digital networked system.
+16 "Smart household security device" does not include a personal
+17 computing device, tablet, or mobile phone when used incidentally
+18 for recording; a device used solely for live two-way
+19 communication without recording capability; or a device owned or
+20 operated by a government entity for public surveillance.
+2026-2414 SB888 CDl SMA.docx
+nHimMHUBiigiwiHiiiHi
+
+Page 6
+S.B. NO.
+H.D. 2
+C.D. 1
+1 "User” means a person who has, or generates, an account or
+2 profile to use a smart household security device.”
+3 SECTION 2. If any provision of this Act, or the
+4 application thereof to any person or circumstance, is held
+5 invalid, the invalidity does not affect other provisions or
+6 applications of the Act that can be given effect without the
+7 invalid provision or application, and to this end the provisions
+8 of this Act are severable.
+9 SECTION 3. This Act does not affect rights and duties that
+10 matured, penalties that were incurred, and proceedings that were
+11 begun before its effective date.
+12 SECTION 4. New statutory material is underscored.
+13 SECTION 5. This Act shall take effect on July 1, 2026.
+2026-2414 SB888 CDl SMA.docx
+HllilllHIIIIililWlllllllil
+
+888
+S.B. NO.
+S.D. 2
+H.D. 2
+C.D. 1
+APPROVED this 14th day of July , 2026
+GOVERNOR OF THE STATE OF HAWAII
+
+S.B. No. 888, S.D. 2, H.D. 2, C.D. 1
+THE SENATE OF THE STATE OF HAWAPI
+Date: May 6, 2026
+Honolulu, HawaiT 96813
+We hereby certify that the foregoing Bill this day passed Final Reading in the Senate
+of the Thirty-Third Legislature of the State of Hawai‘i, Regular Session of 2026.
+Clerk of the Senate
+47-26
+
+SB No. 888, SD 2, HD 2, CD 1
+THE HOUSE OF REPRESENTATIVES OF THE STATE OF HAWAII
+Date: May 6, 2026
+Honolulu, Hawaii
+We hereby certify that the above-referenced Bill on this day passed Final Reading in the
+House of Representatives of the Thirty-Third Legislature of the State of Hawaii, Regular Session
+of 2026.
+Nadine K. Nakamura
+Speaker
+House of Representatives
+Brian L. Takeshita
+Chief Clerk
+House of Representatives
